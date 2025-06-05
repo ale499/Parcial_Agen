@@ -2,7 +2,7 @@ import Contacto from "./Contacto";
 import { getContactByLetter } from "./FuncionesAPI";
 import Navigation from "./Navigation";
 import { useEffect, useState } from "react";
-import "./AgendaContacto.scss";
+import "./AgendaContacto.css";
 import { Container, Table } from "react-bootstrap";
 
 export default function AgendaContacto() {

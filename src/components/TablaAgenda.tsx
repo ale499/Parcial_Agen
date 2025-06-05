@@ -6,7 +6,7 @@ import { useState, useEffect } from "react";
 import { Link } from "react-router-dom";
 import { BsPencilSquare } from "react-icons/bs";
 import { MdDelete } from "react-icons/md";
-import "./AgendaContacto.scss"
+import "./AgendaContacto.css"
 
 export default function TablaAgenda() {
 

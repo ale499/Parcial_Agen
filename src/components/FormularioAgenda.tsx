@@ -5,7 +5,7 @@ import { useParams, useNavigate } from "react-router-dom";
 import Contacto from "./Contacto";
 import { useState, useEffect } from "react";
 import { getContacts, saveContact } from "./FuncionesAPI";
-import "./AgendaContacto.scss";
+import "./AgendaContacto.css";
 
 export default function FormularioAgenda() {
 
